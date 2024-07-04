@@ -1,0 +1,4 @@
+media-video/pipewire sound-server
+# required by dev-python/matplotlib-3.9.0-r1::gentoo[-test]
+# required by dev-python/matplotlib (argument)
+>=dev-python/pillow-10.3.0 webp
