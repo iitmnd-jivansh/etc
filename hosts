@@ -1,0 +1,66 @@
+# /etc/hosts: Local Host Database
+#
+# This file describes a number of aliases-to-address mappings for the for 
+# local hosts that share this file.
+#
+# The format of lines in this file is:
+#
+# IP_ADDRESS	canonical_hostname	[aliases...]
+#
+#The fields can be separated by any number of spaces or tabs.
+#
+# In the presence of the domain name service or NIS, this file may not be 
+# consulted at all; see /etc/host.conf for the resolution order.
+#
+# IPv4 and IPv6 localhost aliases
+127.0.0.1	localhost
+::1		localhost
+127.0.0.1       predator.homenetwork	predator
+
+# Soycel media
+
+0.0.0.0		reddit.com
+0.0.0.0		www.reddit.com
+0.0.0.0		old.reddit.com
+0.0.0.0		4chan.org
+0.0.0.0		www.4chan.org
+0.0.0.0		4channel.org
+0.0.0.0		www.4channel.org
+0.0.0.0		boards.4chan.org
+0.0.0.0		boards.4channel.org
+0.0.0.0		instagram.com
+0.0.0.0		www.instagram.com
+0.0.0.0		incels.is
+0.0.0.0		www.incels.is
+0.0.0.0		lemmygrad.ml
+0.0.0.0		www.lemmygrad.ml
+0.0.0.0		leftypol.org
+0.0.0.0		www.leftypol.org
+0.0.0.0		bharatchan.in
+0.0.0.0		www.bharatchan.in
+0.0.0.0		quora.com
+0.0.0.0		www.quora.com
+0.0.0.0		x.com
+0.0.0.0		www.x.com
+0.0.0.0		looksmax.org
+0.0.0.0		www.looksmax.org
+
+# Cricket 
+
+0.0.0.0		news.google.com
+0.0.0.0		jiocinema.com
+0.0.0.0		www.jiocinema.com
+0.0.0.0		hotstar.com
+0.0.0.0		www.hotstar.com
+0.0.0.0		bcci.tv
+0.0.0.0		www.bcci.tv
+0.0.0.0		iplt20.com
+0.0.0.0		www.iplt20.com
+0.0.0.0		cricket.com
+0.0.0.0		www.cricket.com
+0.0.0.0		cricbuzz.com
+0.0.0.0		www.cricbuzz.com
+0.0.0.0		espncricinfo.com
+0.0.0.0		www.espncricinfo.com
+0.0.0.0		sportskeeda.com
+0.0.0.0		www.sportskeeda.com
